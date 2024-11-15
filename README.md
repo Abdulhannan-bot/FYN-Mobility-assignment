@@ -44,7 +44,7 @@
 
    ```bash
    git clone https://github.com/Abdulhannan-bot/FYN-Mobility-assignment.git
-   cd Frontend
+   cd Frontend/vehicle-service
 
 2) Install the dependencies
    ```bash
