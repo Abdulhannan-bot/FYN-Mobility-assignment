@@ -15,6 +15,10 @@
    git clone https://github.com/Abdulhannan-bot/FYN-Mobility-assignment.git
    cd Backend
 
+3) Create a virtual environment
+   ```bash
+   virtualenv venv
+   
 2) Activate the virtual environment
    ```bash
    source venv/bin/activate
