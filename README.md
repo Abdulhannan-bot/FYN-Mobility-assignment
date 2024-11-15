@@ -40,7 +40,7 @@
 
 # Frontend
 ## Prerequisites
-- [Git]
+- [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
