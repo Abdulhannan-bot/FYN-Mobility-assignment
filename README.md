@@ -1,10 +1,20 @@
 # FYN-Mobility-assignment
 
 # Backend
-# Prequisites
-Python 3.x
-Django
-Virtual environment (venv)
+## Prerequisites
+
+- Python 3.x
+- Django
+- Virtual environment (`venv`)
+
+## Setup Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+   cd Backend
+
 
 # Setup Instructions
 1) Clone the repository
