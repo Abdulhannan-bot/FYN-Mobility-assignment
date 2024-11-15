@@ -2,7 +2,7 @@
 
 # Backend
 ## Prerequisites
-
+- git
 - Python 3.x
 - Django
 - Virtual environment (`venv`)
@@ -12,7 +12,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Abdulhannan-bot/FYN-Mobility-assignment.git
    cd Backend
 
 2) Activate the virtual environment
