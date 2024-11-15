@@ -30,3 +30,26 @@
 5) Start the development server:
    ```bash
    python manage.py runserver
+
+
+# Frontend
+## Prerequisites
+- git
+- Node.js
+- npm
+
+## Setup Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Abdulhannan-bot/FYN-Mobility-assignment.git
+   cd Frontend
+
+2) Install the dependencies
+   ```bash
+   npm install
+
+3) Start the development server
+   ```bash
+   npm start
