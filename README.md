@@ -15,20 +15,18 @@
    git clone <repository-url>
    cd Backend
 
-
-# Setup Instructions
-1) Clone the repository
-git clone <repository-url>
-cd Backend
-
 2) Activate the virtual environment
-source venv/bin/activate
+   ```bash
+   source venv/bin/activate
 
 3) Install the required dependencies:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4) Run migrations:
-python manage.py migrate
+   ```bash
+   python manage.py migrate
 
 5) Start the development server:
-python manage.py runserver
+   ```bash
+   python manage.py runserver
