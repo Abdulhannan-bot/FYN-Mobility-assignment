@@ -19,11 +19,6 @@
 3) Create a virtual environment
    ```bash
    virtualenv myenv
-
-   or
-
-   ```bash
-   python -m venv myenv
    
 2) Activate the virtual environment
    ```bash
@@ -45,9 +40,9 @@
 
 # Frontend
 ## Prerequisites
-- git
-- Node.js
-- npm
+- [Git]
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 
 ## Setup Instructions
 
