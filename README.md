@@ -2,10 +2,11 @@
 
 # Backend
 ## Prerequisites
-- git
-- Python 3.x
-- Django
-- Virtual environment (`venv`)
+## Prerequisites
+- [Git](https://git-scm.com/downloads)
+- [Python 3.x](https://www.python.org/downloads/)
+- [Django](https://www.djangoproject.com/)
+- [Virtual environment (`venv`)](https://virtualenv.pypa.io/en/latest/)
 
 ## Setup Instructions
 
@@ -17,11 +18,17 @@
 
 3) Create a virtual environment
    ```bash
-   virtualenv venv
+   virtualenv myenv
+
+   or
+
+   ```bash
+   python -m venv myenv
    
 2) Activate the virtual environment
    ```bash
-   source venv/bin/activate
+   source myenv/bin/activate
+
 
 3) Install the required dependencies:
    ```bash
